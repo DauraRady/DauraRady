@@ -9,7 +9,7 @@
 ## 🌟 About Me
 
 Hi! I'm **Daura**, a former financial analyst who made a bold move into **QA Engineering**.  
-I specialize in **functional and automated testing** with tools like **Playwright**, **Postman**, and **Python**.
+I specialize in **functional and automated testing** with tools like **Playwright**,**Cypress**, **Postman**, and **Python** & **JavaScript**.
 
 My background in data analysis, validation, and project delivery helps me bring a sharp, business-oriented perspective to testing. I'm passionate about building solid, tested, and user-friendly applications.
 
