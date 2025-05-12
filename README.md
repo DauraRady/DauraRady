@@ -62,7 +62,7 @@ My background in data analysis, validation, and project delivery helps me bring 
 ## 🛠️ Tech Stack
 
 - **Testing**: Playwright · Selenium · Cypress · Postman · Robot Framework · Pytest · Behave
-- **Languages**: Python · JavaScript (in progress) · SQL
+- **Languages**: Python · JavaScript Typescript · Java (in progress)· SQL
 - **Tools**: Git · GitHub · Azure DevOps · Jira · Jenkins · VS Code
 - **Methods**: Agile · TDD · CI/CD · Page Object Model
 
