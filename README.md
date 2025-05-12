@@ -1,17 +1,27 @@
 <h1 align="center">👩‍💻 Daura Rady</h1>
 <p align="center">
   <strong>QA Engineer · ISTQB Certified · Automation & Python Enthusiast</strong><br>
-  Ex-Financial Analyst turned Software Tester · Passionate about building reliable tech
+  Passionate about building reliable tech
 </p>
 
 ---
 
 ## 🌟 About Me
+## Hi, I’m **Daura** — QA Engineer
 
-Hi! I'm **Daura**, a former financial analyst who made a bold move into **QA Engineering**.  
-I specialize in **functional and automated testing** with tools like **Playwright**,**Cypress**, **Postman**, and **Python** & **JavaScript**.
+I design and execute **functional and automated tests** to ensure high-quality, user-focused applications.
 
-My background in data analysis, validation, and project delivery helps me bring a sharp, business-oriented perspective to testing. I'm passionate about building solid, tested, and user-friendly applications.
+- **70% automated / 30% manual testing**, depending on project context and risk-based priorities  
+- Skilled in tools like **Playwright**, **Cypress**, **Postman**, **Python** & **JavaScript**  
+- Experienced in **test design**, **data validation**, and **API / UI automation**  
+- Strong knowledge of **Agile workflows**, CI/CD integration, and collaborative delivery
+
+With a background in data analysis and product delivery, I bring a sharp eye and business-oriented approach to QA.  
+I believe quality is not just about detecting bugs — it's about enabling confidence in what we ship.
+
+> Let’s build better software — one test at a time.
+
+
 
 ---
 
