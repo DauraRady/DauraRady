@@ -12,7 +12,7 @@
 I design and execute **functional and automated tests** to ensure high-quality, user-focused applications.
 
 - **70% automated / 30% manual testing**, depending on project context and risk-based priorities  
-- Skilled in tools like **Playwright**, **Cypress**, **Postman**, **Python** & **JavaScript**  
+- Skilled in tools like **Playwright**, **Selenium**, **Postman**, **Python** & **JavaScript**  
 - Experienced in **test design**, **data validation**, and **API / UI automation**  
 - Strong knowledge of **Agile workflows**, CI/CD integration, and collaborative delivery
 
@@ -35,13 +35,13 @@ I believe quality is not just about detecting bugs — it's about enabling confi
 - [**Angular Form Layout – Playwright**](https://github.com/DauraRady/angular-playwright-e2e)  
   Tests on ngx-admin Angular 14 UI – modular structure, trace viewer, UI mode
 
-- [**OrangeHRM - Robot Framework**](https://github.com/DauraRady/OrangeHRM-rbt-playwright)  
+- [**OrangeHRM - Playwright**](https://github.com/DauraRady/OrangeHRM-rbt-playwright)  
   Functional test suite with Robot Framework and Selenium
 
-- [**PetClinic – Behave BDD**](https://github.com/DauraRady/petclinic-behave-lab)  
+- [**PetClinic – Behave BDD - Seelnium**](https://github.com/DauraRady/petclinic-behave-lab)  
   BDD tests in Python with Behave on Spring Boot PetClinic demo app
 
-- [**Pytest BDD – SauceDemo**](https://github.com/DauraRady/Pytest-BDD-SauceDemo)  
+- [**Pytest BDD –Selenium - SauceDemo**](https://github.com/DauraRady/Pytest-BDD-SauceDemo)  
   E2E testing with Pytest + BDD syntax (Given/When/Then) on a demo e-commerce app
 
 ---
