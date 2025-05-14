@@ -12,7 +12,7 @@
 I design and execute **functional and automated tests** to ensure high-quality, user-focused applications.
 
 - **70% automated / 30% manual testing**, depending on project context and risk-based priorities  
-- Skilled in tools like **Playwright**, **Selenium**, **Postman**, **Python** & **JavaScript**  
+- Skilled in tools like **Playwright**, **Selenium**, **Postman**, **Python** & **JavaScript/TypeScript**  
 - Experienced in **test design**, **data validation**, and **API / UI automation**  
 - Strong knowledge of **Agile workflows**, CI/CD integration, and collaborative delivery
 
