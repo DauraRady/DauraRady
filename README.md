@@ -38,7 +38,7 @@ I believe quality is not just about detecting bugs — it's about enabling confi
 - [**OrangeHRM - Playwright**](https://github.com/DauraRady/OrangeHRM-rbt-playwright)  
   Functional test suite with Robot Framework and Selenium
 
-- [**PetClinic – Behave BDD - Seelnium**](https://github.com/DauraRady/petclinic-behave-lab)  
+- [**PetClinic – Behave BDD - Selenium**](https://github.com/DauraRady/petclinic-behave-lab)  
   BDD tests in Python with Behave on Spring Boot PetClinic demo app
 
 - [**Pytest BDD –Selenium - SauceDemo**](https://github.com/DauraRady/Pytest-BDD-SauceDemo)  
