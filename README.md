@@ -41,7 +41,7 @@ I believe quality is not just about detecting bugs — it's about enabling confi
 - [**PetClinic – Behave BDD - Selenium**](https://github.com/DauraRady/petclinic-behave-lab)  
   BDD tests in Python with Behave on Spring Boot PetClinic demo app
 
-- [**Pytest BDD –Selenium - SauceDemo**](https://github.com/DauraRady/Pytest-BDD-SauceDemo)  
+- [**SauceDemo - Pytest BDD – Selenium**](https://github.com/DauraRady/Pytest-BDD-SauceDemo)  
   E2E testing with Pytest + BDD syntax (Given/When/Then) on a demo e-commerce app
 
 ---
