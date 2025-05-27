@@ -29,7 +29,7 @@ I believe quality is not just about detecting bugs — it's about enabling confi
 
 ### End-to-End & UI Automation
 
-- [**Playwright - OpenCruise**](https://github.com/DauraRady/Playwright-OpenCruise)  
+- [**Playwright - OpenCruise**](https://github.com/DauraRady/Playwright-OpenCruise-)  
   E2E UI testing with Playwright on a web app (login, search, regression flows)
 
 - [**Angular Form Layout – Playwright**](https://github.com/DauraRady/angular-playwright-e2e)  
