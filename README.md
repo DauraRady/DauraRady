@@ -1,4 +1,15 @@
 <h1 align="center">👩‍💻 Daura Rady</h1>
+
+
+
+
+<img src="C:\Users\dorra\Downloads\ChatGPT Image 30 mai 2025, 00_20_02.png" alt="banner" />
+
+
+
+
+
+
 <p align="center">
   <strong>QA Engineer · ISTQB Certified · Automation & Python Enthusiast</strong><br>
   Passionate about building reliable tech
