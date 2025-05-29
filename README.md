@@ -1,11 +1,7 @@
 <h1 align="center">👩‍💻 Daura Rady</h1>
-
-
-
-<img src="https://github.com/DauraRady/DauraRady/blob/main/ChatGPT%20Image%2030%20mai%202025%2C%2000_20_02.png?raw=true" alt="banner" width="800"/>
-
-
-
+<p align="center">
+  <img src="https://github.com/DauraRady/DauraRady/blob/main/ChatGPT%20Image%2030%20mai%202025%2C%2000_20_02.png?raw=true" alt="banner" width="800"/>
+</p>
 <p align="center">
   <strong>QA Engineer · ISTQB Certified · Automation & Python Enthusiast</strong><br>
   Passionate about building reliable tech
