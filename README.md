@@ -2,11 +2,7 @@
 
 
 
-
-<img src="github.com/DauraRady/DauraRady/blob/main/ChatGPT%20Image%2030%20mai%202025%2C%2000_20_02.png" alt="banner" />
-
-
-
+<img src="https://github.com/DauraRady/DauraRady/blob/main/ChatGPT%20Image%2030%20mai%202025%2C%2000_20_02.png?raw=true" alt="banner" width="800"/>
 
 
 
