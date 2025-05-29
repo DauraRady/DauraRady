@@ -92,7 +92,12 @@ I believe quality is not just about detecting bugs — it's about enabling confi
 - Help teams scale QA processes, automation & CI strategies
 
 ---
-
+![Daura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daurarady&show_icons=true&count_private=true&theme=radical)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daurarady&layout=compact&theme=radical)
+---
+![GitHub Streak](https://streak-stats.demolab.com/?user=daurarady&theme=radical)
+---
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DauraRady-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/radydorra/)  
