@@ -1,111 +1,137 @@
-<h1 align="center">👩‍💻 Daura Rady</h1>
 <p align="center">
-  <img src="https://github.com/DauraRady/DauraRady/blob/main/ChatGPT%20Image%2030%20mai%202025%2C%2000_20_02.png?raw=true" alt="banner" width="800"/>
-</p>
-<p align="center">
-  <strong>QA Engineer · ISTQB Certified · Automation & Python Enthusiast</strong><br>
-  Passionate about building reliable tech
+  <img src="https://github.com/DauraRady/DauraRady/blob/main/ChatGPT%20Image%2030%20mai%202025%2C%2000_20_02.png?raw=true" alt="Daura QA Banner" width="700" height="250" />
 </p>
 
 ---
 
-## 🌟 About Me
-## Hi, I’m **Daura** — QA Engineer
+<h2 align="center">🌸 Hello, I'm <strong>Daura</strong> — QA Engineer</h2>
 
-I design and execute **functional and automated tests** to ensure high-quality, user-focused applications.
+<p align="center">
+  I design and execute <strong>functional and automated tests</strong> to ensure reliable, elegant, and user-centered applications.
+</p>
 
-- **70% automated / 30% manual testing**, depending on project context and risk-based priorities  
-- Skilled in tools like **Playwright**, **Selenium**, **Postman**, **Python** & **JavaScript/TypeScript**  
-- Experienced in **test design**, **data validation**, and **API / UI automation**  
-- Strong knowledge of **Agile workflows**, CI/CD integration, and collaborative delivery
+<p align="center">
+  <em>70% automation · 30% manual testing · Business & User Oriented</em>
+</p>
 
-With a background in data analysis and product delivery, I bring a sharp eye and business-oriented approach to QA.  
-I believe quality is not just about detecting bugs — it's about enabling confidence in what we ship.
+- 🎯 Skilled in **Playwright**, **Selenium**, **Postman**, **Robot Framework**, **Python**, **JavaScript/TypeScript**
+- 🧪 Experienced in building robust UI/API test suites, validating business rules, and using Page Object Model
+- 🔁 Agile collaboration · Continuous Integration · Test-Driven Development
+- 💼 Tech & business hybrid profile from a background in data analysis and delivery
 
-> Let’s build better software — one test at a time.
-
-
+> ✨ Quality isn't just about finding bugs — it's about building trust in what we deliver.
 
 ---
 
 ## 🧪 Automation Projects
 
-### End-to-End & UI Automation
+### 🎬 UI & E2E Testing
 
-- [**Playwright - OpenCruise**](https://github.com/DauraRady/Playwright-OpenCruise-)  
-  E2E UI testing with Playwright on a web app (login, search, regression flows)
+- [🔹 OpenCruise - Playwright](https://github.com/DauraRady/Playwright-OpenCruise-)
+- [🔹 Angular E2E – Playwright](https://github.com/DauraRady/angular-playwright-e2e)
+- [🔹 OrangeHRM - Robot Framework](https://github.com/DauraRady/OrangeHRM-rbt-playwright)
+- [🔹 PetClinic – BDD Selenium](https://github.com/DauraRady/petclinic-behave-lab)
+- [🔹 SauceDemo – Pytest BDD](https://github.com/DauraRady/Pytest-BDD-SauceDemo)
 
-- [**Angular Form Layout – Playwright**](https://github.com/DauraRady/angular-playwright-e2e)  
-  Tests on ngx-admin Angular 14 UI – modular structure, trace viewer, UI mode
+### 🌐 API & Data Testing
 
-- [**OrangeHRM - Playwright**](https://github.com/DauraRady/OrangeHRM-rbt-playwright)  
-  Functional test suite with Robot Framework and Selenium
+- [🔹 Postman – OpenCruise](https://github.com/DauraRady/Test_API-Postman)
+- [🔹 Excel to JSON Parser](https://github.com/DauraRady/Parser)
 
-- [**PetClinic – Behave BDD - Selenium**](https://github.com/DauraRady/petclinic-behave-lab)  
-  BDD tests in Python with Behave on Spring Boot PetClinic demo app
+### 🧠 Personal Python & AI Projects
 
-- [**SauceDemo - Pytest BDD – Selenium**](https://github.com/DauraRady/Pytest-BDD-SauceDemo)  
-  E2E testing with Pytest + BDD syntax (Given/When/Then) on a demo e-commerce app
-
----
-
-### API & Data Testing
-
-- [**Postman API Tests – OpenCruise**](https://github.com/DauraRady/Test_API-Postman)  
-  REST API testing in Postman with environment variables and collection runner
-
-- [**Excel to JSON Parser**](https://github.com/DauraRady/Parser)  
-  Python tool to convert Excel files into clean JSON format for API tests
+- [🔹 AI Travel Planner](https://github.com/DauraRady/AI-travel-Planner)
+- [🔹 WeatherWise](https://github.com/DauraRady/Weatherwise)
+- [🔹 Data Viz](https://github.com/DauraRady/Data-visualization-with-Python)
 
 ---
 
-### Personal Tech Projects (Python & IA)
+## 🛠️ Tech Stack (Widgets Style)
 
-- [**AI Travel Planner**](https://github.com/DauraRady/AI-travel-Planner)  
-  Interactive CLI that builds smart itineraries & weather via AI APIs
+<p align="center">
+  <img src="https://img.shields.io/badge/Testing-Playwright-informational?style=flat-square&logo=playwright"/>
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium"/>
+  <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman"/>
+  <img src="https://img.shields.io/badge/-Robot_Framework-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Behave-5A4FCF?style=flat-square"/>
+</p>
 
-- [**WeatherWise**](https://github.com/DauraRady/Weatherwise)  
-  Simple 5-day weather forecast terminal app using OpenWeather API
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-Python-blue?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql"/>
+</p>
 
-- [**Data Viz with Python**](https://github.com/DauraRady/Data-visualization-with-Python)  
-  Charts & graphs with matplotlib, pandas, seaborn
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops"/>
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira"/>
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins"/>
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode"/>
+</p>
 
----
-
-## 🛠️ Tech Stack
-
-- **Testing**: Playwright · Selenium · Cypress · Postman · Robot Framework · Pytest · Behave
-- **Languages**: Python · JavaScript Typescript · Java (in progress)· SQL
-- **Tools**: Git · GitHub · Azure DevOps · Jira · Jenkins · VS Code
-- **Methods**: Agile · TDD · CI/CD · Page Object Model
+<p align="center">
+  <img src="https://img.shields.io/badge/Methods-Agile-FCA121?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-TDD-FF4081?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-CI/CD-4CAF50?style=flat-square&logo=gitlab"/>
+  <img src="https://img.shields.io/badge/-Page_Object_Model-607D8B?style=flat-square"/>
+</p>
 
 ---
 
 ## 📜 Certifications
 
-- ✅ ISTQB Foundation Level (Score: 90%)
-- 📚 Automation Specialization – University of Minnesota (Coursera – Ongoing)
+- 🏅 **ISTQB Foundation Level** – Score: 90%  
+- 🎓 **Coursera – Automation Specialization** (in progress)
 
 ---
 
-## 🎯 My Goals
+## 🎯 2025 Goals
 
-- Grow into a **Senior QA Automation Engineer**
-- Contribute to **open-source QA** tools & libraries
-- Help teams scale QA processes, automation & CI strategies
-
----
-### 📊 GitHub Stats
-
- ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=daurarady&layout=compact&theme=tokyonight) ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daurarady&theme=radical&hide_border=true)
-![Streak](https://streak-stats.demolab.com/?user=daurarady&theme=tokyonight) ![Stats](https://github-readme-stats.vercel.app/api?username=daurarady&show_icons=true&theme=tokyonight) 
+- Become a **QA Automation Lead**
+- Contribute to **open-source QA frameworks**
+- Improve QA strategy and CI/CD collaboration within agile teams
 
 ---
+
+## 📊 GitHub Widgets & Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daurarady&theme=rose_pine&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daurarady&layout=compact&theme=rose_pine" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=daurarady&theme=rose_pine" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daurarady&show_icons=true&theme=rose_pine" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daurarady&theme=rose_pine" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daurarady&theme=rose_pine" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daurarady&theme=rose_pine" />
+</p>
+
+---
+
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DauraRady-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/radydorra/)  
-📩 [dorra.rady@gmail.com](mailto:dorra.rady@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/radydorra/">
+    <img src="https://img.shields.io/badge/LinkedIn-DauraRady-blue?style=flat&logo=linkedin">
+  </a>
+  <br/>
+  📩 <a href="mailto:dorra.rady@gmail.com">dorra.rady@gmail.com</a>
+</p>
 
 ---
 
-_Thanks for stopping by! Let's build better-tested software together._
+<p align="center">
+  <em>Thanks for visiting my profile ✨ Let’s connect & build great things together.</em>
+</p>
+
