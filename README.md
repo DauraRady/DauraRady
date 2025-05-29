@@ -101,9 +101,9 @@ I believe quality is not just about detecting bugs — it's about enabling confi
 
 ![Streak](https://streak-stats.demolab.com/?user=daurarady&theme=tokyonight)
 
-### 📈 Graphique de Contributions
+### 📈 Graphique d'activité GitHub
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=daurarady&theme=github-compact&hide_border=true)
 
 ---
 ## 📬 Contact
