@@ -103,7 +103,7 @@ I believe quality is not just about detecting bugs — it's about enabling confi
 
 ### 📈 Graphique de Contributions
 
-![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=daurarady&theme=github-compact)
+![Graph](https://github-readme-activity-graph.vercel.app/graph)
 
 ---
 ## 📬 Contact
