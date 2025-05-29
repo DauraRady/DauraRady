@@ -94,17 +94,8 @@ I believe quality is not just about detecting bugs — it's about enabling confi
 ---
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=daurarady&show_icons=true&theme=tokyonight)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=daurarady&layout=compact&theme=tokyonight)
-
-### 🔥 Streak
-
-![Streak](https://streak-stats.demolab.com/?user=daurarady&theme=tokyonight)
-
-### 📈 Graphique d'activité GitHub
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=daurarady&theme=github-compact&hide_border=true)
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daurarady&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=daurarady&show_icons=true&theme=tokyonight)   ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daurarady&theme=radical&hide_border=true)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=daurarady&layout=compact&theme=tokyonight) ![Streak](https://streak-stats.demolab.com/?user=daurarady&theme=tokyonight)
 
 ---
 ## 📬 Contact
