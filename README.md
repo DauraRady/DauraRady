@@ -40,6 +40,7 @@
 
 ### 🧠 Personal Python & AI Projects
 
+- [🔹 Stock managment APP](https://github.com/DauraRady/gestionnaire_de_stock)
 - [🔹 AI Travel Planner](https://github.com/DauraRady/AI-travel-Planner)
 - [🔹 WeatherWise](https://github.com/DauraRady/Weatherwise)
 - [🔹 Data Viz](https://github.com/DauraRady/Data-visualization-with-Python)
