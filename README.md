@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DauraRady/DauraRady/blob/main/ChatGPT%20Image%2030%20mai%202025%2C%2000_20_02.png?raw=true" alt="Daura QA Banner" width="700" height="350" />
+  <img src="https://github.com/DauraRady/DauraRady/blob/main/ChatGPT%20Image%2030%20mai%202025%2C%2000_20_02.png?raw=true" alt="Daura QA Banner" width="700" height="400" />
 </p>
 
 ---
