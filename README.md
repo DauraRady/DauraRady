@@ -29,7 +29,7 @@
 
 - [🔹 OpenCruise - Playwright](https://github.com/DauraRady/Playwright-OpenCruise-)
 - [🔹 Angular E2E – Playwright](https://github.com/DauraRady/angular-playwright-e2e)
-- [🔹 OrangeHRM - Robot Framework](https://github.com/DauraRady/OrangeHRM-rbt-playwright)
+- [🔹 OrangeHRM - Playwright](https://github.com/DauraRady/OrangeHRM-rbt-playwright)
 - [🔹 PetClinic – BDD Selenium](https://github.com/DauraRady/petclinic-behave-lab)
 - [🔹 SauceDemo – Pytest BDD](https://github.com/DauraRady/Pytest-BDD-SauceDemo)
 
