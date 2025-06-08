@@ -88,7 +88,7 @@
 ## 📜 Certifications
 
 - 🏅 **ISTQB Foundation Level** – Score: 90%  
-- 🎓 **Coursera – Automation Specialization** (in progress)
+- 🎓 **ISTQB Agile Tester** (in progress)
 
 ---
 
