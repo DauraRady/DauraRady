@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Widgets Style)
+## 🛠️ Tech Stack 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Testing-Playwright-informational?style=flat-square&logo=playwright"/>
