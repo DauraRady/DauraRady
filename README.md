@@ -88,7 +88,7 @@
 ## 📜 Certifications
 
 - 🏅 **ISTQB Foundation Level** – Score: 90%  
-- 🎓 **ISTQB Agile Tester** (in progress)
+- 🏅 **ISTQB Agile Tester** – Score: 82,5%
 
 ---
 
