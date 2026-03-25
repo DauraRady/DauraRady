@@ -127,7 +127,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-DauraRady-blue?style=flat&logo=linkedin">
   </a>
   <br/>
-  📩 <a href="mailto:daura.rady@outlook.fr">dorra.rady@gmail.com</a>
+  📩 <a href="mailto:daura.rady@outlook.fr">daura.rady@outlook.fr</a>
 </p>
 
 ---
