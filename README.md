@@ -92,7 +92,7 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - Become a **QA Automation Lead**
 - Contribute to **open-source QA frameworks**
@@ -105,7 +105,15 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daurarady&theme=rose_pine&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daurarady&layout=compact&theme=rose_pine" />
+ ## 🚀 Core Stack
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   <br/>
   <img src="https://streak-stats.demolab.com/?user=daurarady&theme=rose_pine" />
   <br/>
