@@ -3,23 +3,85 @@
 </p>
 
 ---
-
-<h2 align="center">🌸 Hello, I'm <strong>Daura</strong> — QA Engineer</h2>
+<h2 align="center">🌸 Hello, I'm <strong>Daura</strong> — QA Automation Engineer</h2>
 
 <p align="center">
-  I design and execute <strong>functional and automated tests</strong> to ensure reliable, elegant, and user-centered applications.
+  I design high-impact test strategies that secure critical user journeys and accelerate delivery.
 </p>
 
 <p align="center">
-  <em>70% automation · 30% manual testing · Business & User Oriented</em>
+  <em>Not just testing — I ensure product reliability, business integrity, and user trust.</em>
 </p>
 
-- 🎯 Skilled in **Playwright**, **Selenium**, **Postman**, **Robot Framework**, **Python**, **JavaScript/TypeScript**
-- 🧪 Experienced in building robust UI/API test suites, validating business rules, and using Page Object Model
-- 🔁 Agile collaboration · Continuous Integration · Test-Driven Development
-- 💼 Tech & business hybrid profile from a background in data analysis and delivery
+<p align="center">
+  <strong>70% Automation · 30% Exploratory & Risk-Based Testing</strong>
+</p>
 
-> ✨ Quality isn't just about finding bugs — it's about building trust in what we deliver.
+<hr/>
+
+<h3>🧠 Core Expertise</h3>
+
+<ul>
+  <li>Automation: <strong>Playwright</strong>, <strong>Selenium</strong></li>
+  <li>API Testing: <strong>Postman</strong>, <strong>Newman</strong></li>
+  <li>Languages: <strong>JavaScript/TypeScript</strong>, <strong>Python</strong></li>
+  <li>Test Architecture: Page Object Model, fixtures, reusable components</li>
+  <li>CI/CD: Jenkins, GitHub Actions, Azure DevOps</li>
+  <li>Advanced debugging: DevTools, network analysis, GraphQL, async flows</li>
+</ul>
+
+<hr/>
+
+<h3>🚀 What I Bring</h3>
+
+<ul>
+  <li>Robust and maintainable UI/API test suites (no flaky tests)</li>
+  <li>Reduced pipeline instability and faster feedback loops</li>
+  <li>Early defect detection through shift-left practices</li>
+  <li>Strong collaboration with developers and product teams</li>
+  <li>Validation of complex business rules in data-driven systems</li>
+</ul>
+
+<hr/>
+
+<h3>💼 About Me</h3>
+
+<p>
+  With a background in finance and data analysis, I bring a hybrid tech-business mindset.
+</p>
+
+<p>
+  I don’t just test features — I understand the <strong>business logic behind them</strong> and focus on what truly matters.
+</p>
+
+<hr/>
+
+<h3>✨ Current Focus</h3>
+
+<ul>
+  <li>Advanced Playwright patterns (UI + API synchronization)</li>
+  <li>Smarter E2E strategies and test reliability</li>
+  <li>AI-assisted testing (test generation, debugging, optimization)</li>
+  <li>Building faster and more scalable automation pipelines</li>
+</ul>
+
+<hr/>
+
+<h3>📊 QA Principles</h3>
+
+<ul>
+  <li>Test what matters, not everything</li>
+  <li>Prefer reliability over illusion of coverage</li>
+  <li>Automate stable and high-value flows</li>
+  <li>Use API validation when more relevant than UI</li>
+  <li>Treat quality as a business risk topic</li>
+</ul>
+
+<hr/>
+
+<p align="center">
+  ✨ <em>Quality is not just about finding bugs — it's about preventing business failures.</em>
+</p>
 
 ---
 
