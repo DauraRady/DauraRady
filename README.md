@@ -166,19 +166,11 @@ BDD-driven test suite using Gherkin scenarios.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daurarady&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=daurarady&theme=rose_pine&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daurarady&theme=rose_pine" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daurarady&layout=compact&theme=rose_pine&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=6&hide=html,css" width="40%" />
 </p>
-
----
-
-<p align="center">
-  <strong>✨ Quality is not about testing everything — it's about protecting what matters.</strong>
-</p>
-
 <p align="center">
   <em>Open to new opportunities — Let's connect and build great things together.</em>
 </p>
