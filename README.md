@@ -1,200 +1,184 @@
 <p align="center">
-  <img src="https://github.com/DauraRady/DauraRady/blob/main/ChatGPT%20Image%2030%20mai%202025%2C%2000_20_02.png?raw=true" alt="Daura QA Banner" width="700" height="400" />
+  <img src="https://github.com/DauraRady/DauraRady/blob/main/ChatGPT%20Image%2030%20mai%202025%2C%2000_20_02.png?raw=true" alt="Daura — QA Automation Engineer" width="700" height="400" />
 </p>
 
----
-<h2 align="center">🌸 Hello, I'm <strong>Daura</strong> — QA Automation Engineer</h2>
+<h1 align="center">Daura Rady</h1>
+
+<h3 align="center">QA Automation Engineer · Finance Domain Expert</h3>
 
 <p align="center">
-  I design high-impact test strategies that secure critical user journeys and accelerate delivery.
+  <em>I don't just find bugs — I prevent business failures.</em>
 </p>
-
-<p align="center">
-  <em>Not just testing — I ensure product reliability, business integrity, and user trust.</em>
-</p>
-
-<p align="center">
-  <strong>70% Automation · 30% Exploratory & Risk-Based Testing</strong>
-</p>
-
-<hr/>
-
-<h3>🧠 Core Expertise</h3>
-
-<ul>
-  <li>Automation: <strong>Playwright</strong>, <strong>Selenium</strong></li>
-  <li>API Testing: <strong>Postman</strong>, <strong>Newman</strong></li>
-  <li>Languages: <strong>JavaScript/TypeScript</strong>, <strong>Python</strong></li>
-  <li>Test Architecture: Page Object Model, fixtures, reusable components</li>
-  <li>CI/CD: Jenkins, GitHub Actions, Azure DevOps</li>
-  <li>Advanced debugging: DevTools, network analysis, GraphQL, async flows</li>
-</ul>
-
-<hr/>
-
-<h3>🚀 What I Bring</h3>
-
-<ul>
-  <li>Robust and maintainable UI/API test suites (no flaky tests)</li>
-  <li>Reduced pipeline instability and faster feedback loops</li>
-  <li>Early defect detection through shift-left practices</li>
-  <li>Strong collaboration with developers and product teams</li>
-  <li>Validation of complex business rules in data-driven systems</li>
-</ul>
-
-<hr/>
-
-<h3>💼 About Me</h3>
-
-<p>
-  With a background in finance and data analysis, I bring a hybrid tech-business mindset.
-</p>
-
-<p>
-  I don’t just test features — I understand the <strong>business logic behind them</strong> and focus on what truly matters.
-</p>
-
-<hr/>
-
-<h3>✨ Current Focus</h3>
-
-<ul>
-  <li>Advanced Playwright patterns (UI + API synchronization)</li>
-  <li>Smarter E2E strategies and test reliability</li>
-  <li>AI-assisted testing (test generation, debugging, optimization)</li>
-  <li>Building faster and more scalable automation pipelines</li>
-</ul>
-
-<hr/>
-
-<h3>📊 QA Principles</h3>
-
-<ul>
-  <li>Test what matters, not everything</li>
-  <li>Prefer reliability over illusion of coverage</li>
-  <li>Automate stable and high-value flows</li>
-  <li>Use API validation when more relevant than UI</li>
-  <li>Treat quality as a business risk topic</li>
-</ul>
-
-<hr/>
-
-<p align="center">
-  ✨ <em>Quality is not just about finding bugs — it's about preventing business failures.</em>
-</p>
-
----
-
-## 🧪 Automation Projects
-
-### 🎬 UI & E2E Testing
-
-- [🔹 OpenCruise - Playwright](https://github.com/DauraRady/Playwright-OpenCruise-)
-- [🔹 Angular E2E – Playwright](https://github.com/DauraRady/angular-playwright-e2e)
-- [🔹 OrangeHRM - Playwright](https://github.com/DauraRady/OrangeHRM-rbt-playwright)
-- [🔹 PetClinic – BDD Selenium](https://github.com/DauraRady/petclinic-behave-lab)
-- [🔹 SauceDemo – Pytest BDD - Selenium](https://github.com/DauraRady/Pytest-BDD-SauceDemo)
-
-### 🌐 API & Data Testing
-
-- [🔹 Postman – OpenCruise](https://github.com/DauraRady/Test_API-Postman)
-- [🔹 Excel to JSON Parser](https://github.com/DauraRady/Parser)
-
-### 🧠 Personal Python & AI Projects
-
-- [🔹 Stock managment APP](https://github.com/DauraRady/gestionnaire_de_stock)
-- [🔹 AI Travel Planner](https://github.com/DauraRady/AI-travel-Planner)
-- [🔹 WeatherWise](https://github.com/DauraRady/Weatherwise)
-- [🔹 Data Viz](https://github.com/DauraRady/Data-visualization-with-Python)
-
----
-
-## 🛠️ Tech Stack 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Testing-Playwright-informational?style=flat-square&logo=playwright"/>
-  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium"/>
-  <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress"/>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman"/>
-  <img src="https://img.shields.io/badge/-Robot_Framework-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Behave-5A4FCF?style=flat-square"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Languages-Python-blue?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops"/>
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira"/>
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins"/>
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Methods-Agile-FCA121?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-TDD-FF4081?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-CI/CD-4CAF50?style=flat-square&logo=gitlab"/>
-  <img src="https://img.shields.io/badge/-Page_Object_Model-607D8B?style=flat-square"/>
-</p>
-
----
-
-## 📜 Certifications
-
-- 🏅 **ISTQB Foundation Level** – Score: 90%  
-- 🏅 **ISTQB Agile Tester** – Score: 82,5%
-
----
-
-## 🎯 2026 Goals
-
-- Become a **QA Automation Lead**
-- Contribute to **open-source QA frameworks**
-- Improve QA strategy and CI/CD collaboration within agile teams
-
----
-
-## 📊 GitHub Widgets & Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daurarady&theme=rose_pine&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=daurarady&layout=compact&theme=rose_pine&size_weight=0.5&count_weight=0.5&langs_count=8&hide=html,css" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=daurarady&theme=rose_pine" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=daurarady&show_icons=true&theme=rose_pine" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daurarady&theme=rose_pine" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daurarady&theme=rose_pine" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daurarady&theme=rose_pine" />
-</p>
-
----
-
-## 📬 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/radydorra/">
-    <img src="https://img.shields.io/badge/LinkedIn-DauraRady-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <br/>
-  📩 <a href="mailto:daura.rady@outlook.fr">daura.rady@outlook.fr</a>
+  &nbsp;
+  <a href="mailto:daura.rady@outlook.fr">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### 🎯 Who I Am
+
+I'm a **QA Automation Engineer** with 6 years of experience in quality assurance — 3 of them focused on automation.
+
+What sets me apart: **I come from finance.** Before QA, I spent nearly 8 years in Private Equity and data analysis. I don't just validate features — I understand the **business rules behind them**, the regulatory stakes, and **what a bug actually costs**.
+
+I design test strategies that protect critical user journeys, reduce pipeline instability, and catch defects **before** they reach production.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔧 What I Do**
+
+- Build robust UI & API test suites with **Playwright** and **Selenium**
+- Design **API-first testing** strategies (Postman, Newman)
+- Implement shift-left practices for early defect detection
+- Stabilize CI/CD pipelines and eliminate flaky tests
+- Validate complex business logic in data-driven financial systems
+
+</td>
+<td width="50%" valign="top">
+
+**💡 How I Think**
+
+- Test what matters, not everything
+- Prefer reliability over illusion of coverage
+- Automate stable, high-value flows first
+- Use API validation when more relevant than UI
+- Treat quality as a **business risk** topic
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<table>
+<tr>
+<td align="center" width="25%"><strong>Test Frameworks</strong></td>
+<td align="center" width="25%"><strong>Languages</strong></td>
+<td align="center" width="25%"><strong>API & Data</strong></td>
+<td align="center" width="25%"><strong>CI/CD & Tools</strong></td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/-Newman-FF6C37?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/-REST_API-009688?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+---
+
+### 🧪 Featured Projects
+
+> Selected projects showcasing my automation approach: **structured, maintainable, business-focused.**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏢 [SIRH E2E — Playwright](https://github.com/DauraRady/sirh-e2e-playwright)
+End-to-end test suite for an HR management system.
+- **Stack:** Playwright · TypeScript
+- **Focus:** Role-based testing, complex workflows
+- **Highlights:** Business-critical HR process validation
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧩 [Smart Home E2E — Playwright](https://github.com/DauraRady/smart-home-e2e-playwright)
+E2E testing on a modern Angular application.
+- **Stack:** Playwright · TypeScript
+- **Focus:** Component testing, async handling
+- **Highlights:** Real-world SPA testing patterns
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌐 [API Testing — Postman/Newman](https://github.com/DauraRady/Test_API-Postman)
+Complete API test suite with automated execution.
+- **Stack:** Postman · Newman · CI-ready
+- **Focus:** Contract testing, data validation
+- **Highlights:** Collection runner, environment management
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐾 [PetClinic — BDD Selenium](https://github.com/DauraRady/petclinic-behave-lab)
+BDD-driven test suite using Gherkin scenarios.
+- **Stack:** Selenium · Python · Behave
+- **Focus:** Behavior-driven development, readable specs
+- **Highlights:** Living documentation approach
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📜 Certifications
+
+<table>
+<tr>
+<td>🏅 <strong>ISTQB Foundation Level</strong></td>
+<td>Score: 90%</td>
+</tr>
+<tr>
+<td>🏅 <strong>ISTQB Agile Tester</strong></td>
+<td>Score: 82.5%</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daurarady&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=daurarady&theme=rose_pine&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daurarady&layout=compact&theme=rose_pine&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=6&hide=html,css" width="40%" />
 </p>
 
 ---
 
 <p align="center">
-  <em>Thanks for visiting my profile ✨ Let’s connect & build great things together.</em>
+  <strong>✨ Quality is not about testing everything — it's about protecting what matters.</strong>
 </p>
 
+<p align="center">
+  <em>Open to new opportunities — Let's connect and build great things together.</em>
+</p>
