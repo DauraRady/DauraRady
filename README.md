@@ -158,6 +158,10 @@ BDD-driven test suite using Gherkin scenarios.
 <td>🏅 <strong>ISTQB Agile Tester</strong></td>
 <td>Score: 82.5%</td>
 </tr>
+<tr>
+<td>🏅 <strong>ISTQB Tester AI Testing</strong></td>
+<td>Score: 82.7%</td>
+</tr>
 </table>
 
 ---
