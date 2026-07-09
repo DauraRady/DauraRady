@@ -41,6 +41,7 @@ I design test strategies that protect critical user journeys, reduce pipeline in
 - Implement shift-left practices for early defect detection
 - Stabilize CI/CD pipelines and eliminate flaky tests
 - Validate complex business logic in data-driven financial systems
+- Test and evaluate **AI/LLM-powered features**: prompt validation, output quality checks, and automated evaluation (promptfoo, DeepEval)
 
 </td>
 <td width="50%" valign="top">
@@ -63,10 +64,11 @@ I design test strategies that protect critical user journeys, reduce pipeline in
 
 <table>
 <tr>
-<td align="center" width="25%"><strong>Test Frameworks</strong></td>
-<td align="center" width="25%"><strong>Languages</strong></td>
-<td align="center" width="25%"><strong>API & Data</strong></td>
-<td align="center" width="25%"><strong>CI/CD & Tools</strong></td>
+<td align="center" width="20%"><strong>Test Frameworks</strong></td>
+<td align="center" width="20%"><strong>Languages</strong></td>
+<td align="center" width="20%"><strong>API & Data</strong></td>
+<td align="center" width="20%"><strong>AI / LLM Testing</strong></td>
+<td align="center" width="20%"><strong>CI/CD & Tools</strong></td>
 </tr>
 <tr>
 <td align="center">
@@ -88,6 +90,12 @@ I design test strategies that protect critical user journeys, reduce pipeline in
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
 </td>
 <td align="center">
+  <img src="https://img.shields.io/badge/-Promptfoo-FF4785?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/-DeepEval-6E56CF?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/-LLM_Evaluation-10A37F?style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/-Prompt_Testing-412991?style=flat-square"/>
+</td>
+<td align="center">
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/><br/>
@@ -101,6 +109,12 @@ I design test strategies that protect critical user journeys, reduce pipeline in
 ### 🧪 Featured Projects
 
 > Selected projects showcasing my automation approach: **structured, maintainable, business-focused.**
+
+#### 🤖 [AI Travel Planner — LLM Testing](https://github.com/DauraRady/AI-travel-Planner)
+Python app generating travel itineraries via an AI API, built with a full quality-first approach: unit tests, real API integration checks, and **automated LLM output evaluation**.
+- **Stack:** Python · pytest · promptfoo · DeepEval · SheCodes AI
+- **Focus:** Testing AI-generated content — not just "does it run", but "is the output actually good"
+- **Highlights:** Mocked unit tests for fast feedback, real-API integration tests via promptfoo across multiple destinations, semantic quality evaluation with DeepEval, proper error handling and API key management
 
 <table>
 <tr>
