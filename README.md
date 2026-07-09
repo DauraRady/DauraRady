@@ -110,11 +110,22 @@ I design test strategies that protect critical user journeys, reduce pipeline in
 
 > Selected projects showcasing my automation approach: **structured, maintainable, business-focused.**
 
-#### 🤖 [AI Travel Planner — LLM Testing](https://github.com/DauraRady/AI-travel-Planner)
-Python app generating travel itineraries via an AI API, built with a full quality-first approach: unit tests, real API integration checks, and **automated LLM output evaluation**.
+#### 🤖 [AI Travel Planner — AI-Generated Itineraries, Fully Tested](https://github.com/DauraRady/AI-travel-Planner)
+Python app generating travel itineraries via an AI API, built with a full quality-first approach: unit tests, real API integration checks, and **automated LLM output evaluation** — proof that AI features can be tested with the same rigor as any other feature.
 - **Stack:** Python · pytest · promptfoo · DeepEval · SheCodes AI
 - **Focus:** Testing AI-generated content — not just "does it run", but "is the output actually good"
 - **Highlights:** Mocked unit tests for fast feedback, real-API integration tests via promptfoo across multiple destinations, semantic quality evaluation with DeepEval, proper error handling and API key management
+
+#### 🔬 Playwright Testability Audit — CLI Tool *(private repo)*
+A CLI + Playwright fixture that scores a live page's testability **before** you write a single test, instead of repairing fragile locators after tests start failing.
+- **Stack:** Node.js · Playwright · GitHub Actions
+- **Focus:** Prevent bad testability at the source rather than patch broken tests later
+- **Highlights:** Testability score (0–100) on visible elements, row-scoped locator suggestions for tables, shadow DOM traversal, dynamic-id and duplicate-accessible-name detection, recommends the strongest available locator (testid > role > label > placeholder), JSON/Markdown report usable as a CI gate, GitHub Actions workflow that audits every PR automatically
+
+#### 💬 AI Chatbot — Conversational Testing *(private / collaborative project)*
+Co-built AI chatbot where my focus is testing the conversational layer: validating dialogue flows and checking the relevance and quality of AI-generated responses.
+- **Focus:** Conversation flow testing, AI response quality validation
+- **Type:** Private, built and tested with a teammate
 
 <table>
 <tr>
