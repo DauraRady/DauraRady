@@ -180,20 +180,12 @@ BDD-driven test suite using Gherkin scenarios.
 
 ### 📜 Certifications
 
-<table>
-<tr>
-<td>🏅 <strong>ISTQB Foundation Level</strong></td>
-<td>Score: 90%</td>
-</tr>
-<tr>
-<td>🏅 <strong>ISTQB Agile Tester</strong></td>
-<td>Score: 82.5%</td>
-</tr>
-<tr>
-<td>🏅 <strong>ISTQB Tester AI Testing</strong></td>
-<td>Score: 82.7%</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/ISTQB-Foundation_Level_·_90%25-6A0DAD?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ISTQB-Tester_AI_Testing_·_82.7%25-6A0DAD?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ISTQB-Agile_Tester_·_82.5%25-6A0DAD?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ISTQB-Test_Management_·_80%25-6A0DAD?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+</p>
 
 ---
 
