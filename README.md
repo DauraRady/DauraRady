@@ -110,6 +110,12 @@ I design test strategies that protect critical user journeys, reduce pipeline in
 
 > Selected projects showcasing my automation approach: **structured, maintainable, business-focused.**
 
+#### 🏦 [SynthFin — Deterministic Synthetic Banking Data Generator](https://github.com/DauraRady/synthfin)
+A generator that builds a coherent synthetic banking universe — not isolated Faker fields — so fintech apps can be tested end-to-end without ever touching real customer data.
+- **Stack:** TypeScript · Node.js
+- **Focus:** Domain-accurate fintech test data: IBAN valid at two levels (ISO 13616 Mod 97 + national check key), Luhn-valid card numbers, double-entry ledger accounting
+- **Highlights:** 7 money-laundering typologies (fan-in, fan-out, cycle, stack, bipartite, gather/scatter) inspired by IBM's AMLSim, with exported ground truth for scoring a detection engine; velocity-based fraud alerts; two-stage independent validation gate (structural + semantic) that rejects any inconsistent dataset before export; 100% deterministic — same seed produces a byte-identical dataset every time
+
 #### 🤖 [AI Travel Planner — AI-Generated Itineraries, Fully Tested](https://github.com/DauraRady/AI-travel-Planner)
 Python app generating travel itineraries via an AI API, built with a full quality-first approach: unit tests, real API integration checks, and **automated LLM output evaluation** — proof that AI features can be tested with the same rigor as any other feature.
 - **Stack:** Python · pytest · promptfoo · DeepEval · SheCodes AI
