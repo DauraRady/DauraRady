@@ -34,7 +34,7 @@
 - ✅ **60+ Automated Business Scenarios** delivered in regulated financial environments
 - ✅ **Complex Banking Workflows** automated (onboarding, payments, shareholder operations, data validation)
 - ✅ **Playwright, Selenium, pytest & API Testing** across professional and portfolio projects
-- ✅ **3 ISTQB Certifications:** Foundation Level | Agile Tester | Certified Tester AI Testing
+- ✅ **4 ISTQB Certifications:** Foundation Level | Agile Tester | Certified Tester AI Testing | Test Management
 - ✅ **QA Tools Developed:** Testability Auditor (CLI + Playwright fixture) | Financial test-data factory | AI system evaluation suite
 - ✅ **12 Years Finance & Business Analysis** applied to risk-based testing and regulatory compliance
 
@@ -49,12 +49,13 @@
 | **ISTQB Foundation Level** | 90% | ✅ Certified |
 | **ISTQB Agile Tester** | 82.5% | ✅ Certified |
 | **ISTQB Certified Tester AI Testing** | 82.7% | ✅ Certified |
+| **ISTQB Test Management** | 80% | ✅ Certified |
 
 </div>
 
 <div align="center">
 
-![ISTQB Certified](https://img.shields.io/badge/ISTQB-3%20Certifications-FFB81C?style=for-the-badge&logo=certified&logoColor=black)
+![ISTQB Certified](https://img.shields.io/badge/ISTQB-4%20Certifications-FFB81C?style=for-the-badge&logo=certified&logoColor=black)
 
 </div>
 
@@ -271,6 +272,7 @@ End-to-end test suite for an enterprise HR management system.
 - ✅ **ISTQB Foundation Level** — 90%
 - ✅ **ISTQB Agile Tester** — 82.5%
 - ✅ **ISTQB Certified Tester AI Testing** — 82.7%
+- ✅ **ISTQB Test Management** — 80%
 
 ### Currently Focused On
 - Advanced LLM evaluation techniques
