@@ -22,7 +22,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radydorra/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dorra.rady@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daura.rady@outlook.fr)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DauraRady)
   
 </div>
@@ -304,7 +304,7 @@ End-to-end test suite for an enterprise HR management system.
 
 ## 📞 Let's Talk
 
-- **Email:** [dorra.rady@gmail.com](mailto:dorra.rady@gmail.com)
+- **Email:** [daura.rady@outlook.fr](mailto:daura.rady@outlook.fr)
 - **LinkedIn:** [@radydorra](https://www.linkedin.com/in/radydorra/)
 - **GitHub:** [@DauraRady](https://github.com/DauraRady)
 
