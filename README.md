@@ -16,7 +16,7 @@
 
 ## Snapshot
 
-- **12 years in finance & business analysis** (Private Equity, data-driven operations), **3 of them focused on QA automation**
+- **14 years in finance & business analysis** (Private Equity, data-driven operations), **4 of them focused on QA automation**
 - **60+ automated business scenarios** delivered in regulated financial environments — onboarding, payments, shareholder operations, data validation
 - **4 ISTQB certifications** — see below
 - Core stack: **Playwright, Selenium, pytest, API testing**; emerging expertise in **AI system testing** (RAG, LLM evaluation, voice interfaces)
