@@ -1,10 +1,16 @@
 <div align="center">
-  <img src="https://github.com/DauraRady/DauraRady/blob/main/ChatGPT%20Image%2030%20mai%202025%2C%2000_20_02.png?raw=true" alt="Daura Rady" width="700" height="400" />
+  <img src="https://github.com/DauraRady/DauraRady/blob/main/ChatGPT%20Image%2030%20mai%202025%2C%2000_20_02.png?raw=true" alt="Daura Rady — QA Automation Engineer" width="700" height="400" />
 </div>
 
 <h1 align="center">Daura Rady</h1>
-<p align="center"><strong>QA Automation Engineer — Finance &amp; Regulated Systems</strong></p>
-<p align="center"><em>Rigorous testing for regulated environments and emerging AI systems.</em></p>
+
+<p align="center">
+  <strong>QA Automation Engineer · Playwright · AI Testing · Finance</strong>
+</p>
+
+<p align="center">
+  <em>Building reliable automation and QA tooling for business-critical systems.</em>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/radydorra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -14,97 +20,309 @@
 
 ---
 
-## Snapshot
+## 👋 About me
 
-- **14 years in finance & business analysis** (Private Equity, data-driven operations), **4 of them focused on QA automation**
-- **60+ automated business scenarios** delivered in regulated financial environments — onboarding, payments, shareholder operations, data validation
-- **4 ISTQB certifications** — see below
-- Core stack: **Playwright, Selenium, pytest, API testing**; emerging expertise in **AI system testing** (RAG, LLM evaluation, voice interfaces)
+I build **test automation, QA frameworks and quality engineering tools** for complex and regulated environments.
 
-The combination is rare: I understand *why* quality matters to the business, not just *how* to test.
+My background combines **finance, business analysis and software quality**, which shapes the way I approach testing:
 
----
+> **What can break technically, and what would that failure cost the business?**
 
-## Certifications
+My current work focuses on the intersection of:
 
-| Certification | Score |
-|---|---|
-| ISTQB Foundation Level | 90% |
-| ISTQB Agile Tester | 82.5% |
-| ISTQB Certified Tester AI Testing | 82.7% |
-| ISTQB Test Management | 80% |
+**Playwright · Quality Engineering · AI Testing · Financial Systems**
 
 ---
 
-## Stack
+## 🔥 What I'm building
 
-- **Automation:** Playwright, Selenium, pytest (3+ years across professional and portfolio projects)
-- **API & contracts:** Postman, REST, Zod schema validation
-- **AI system testing:** DeepEval, Promptfoo, RAG relevance evaluation, LLM output validation
-- **Languages:** Python (3+ yrs), TypeScript (2+ yrs), SQL, JavaScript
-- **CI/CD:** GitHub Actions, Docker, Git
+### 🧠 KALISTO QA Ecosystem
 
----
+A collection of QA engineering tools built around a simple idea:
 
-## Projects
+> **Automation should help us make better testing decisions, not simply generate more tests.**
 
-### AI Travel Planner
-[github.com/DauraRady/AI-travel-Planner](https://github.com/DauraRady/AI-travel-Planner)
+#### 🔬 Kalisto Autopsy 🔒 `Private`
 
-Production-oriented itinerary generator used as a systematic QA case study for LLM applications: strict input validation, retry/backoff resilience, structured logging, externalized prompt configuration, and a test strategy spanning unit, mock, integration, and semantic evaluation (Promptfoo + DeepEval).
+Decision engine for analyzing **Playwright test failures** and helping distinguish application defects, automation problems and unstable behavior.
 
-**Stack:** Python · pytest · Promptfoo · DeepEval · Zod
-
-### Banking Chatbot 🔒 *Private*
-Voice-enabled RAG chatbot for a financial use case, tested end-to-end: speech-to-text accuracy, RAG relevance and semantic scoring, multi-turn conversation flows, error/fallback handling, and PII masking for compliance.
-
-**Applied skills:** Voice testing, RAG evaluation, AI output validation
-
-### Playwright Testability Audit 🔒 *Private*
-CLI tool that scores a page's testability before any test is written — scans HTML for fragile selectors (dynamic IDs, generated classes), recommends robust locators (role > label > placeholder), and outputs a 0–100 score with a JSON/Markdown report for CI/CD gates.
-
-**Applied skills:** Tool development, quality metrics, automation
-
-### Playwright Learning Project
-[github.com/DauraRady/Playwright-Learning-Project](https://github.com/DauraRady/Playwright-Learning-Project)
-
-A structured learning path from Playwright basics to production patterns — a task management app (backend + frontend, 11 guided tests, custom Zod fixtures, Page Object Model) and an advanced multi-page travel booking scenario with CI/CD integration.
-
-### SIRH E2E Test Suite
-[github.com/DauraRady/sirh-e2e-playwright](https://github.com/DauraRady/sirh-e2e-playwright)
-
-End-to-end suite for an enterprise HR management system — authentication, complex workflows, data persistence, error handling.
+**Focus:** Playwright · Failure Analysis · Test Diagnostics · TypeScript
 
 ---
 
-## How I approach testing
+#### 🛫 Kalisto Preflight 🔒 `Private`
 
-I focus on critical business journeys over raw coverage, testing business logic API-first and reserving E2E for the highest-risk paths. Bugs get framed in business impact — revenue, compliance, customer trust — and prioritized by cost of failure, not just frequency. Even in prototypes, I hold to production habits: proper error handling, structured logging, configuration over hardcoding. AI systems get evaluated differently from deterministic code — semantic evaluation instead of string matching, checks for hallucination and off-topic drift, and consistency testing across repeated runs.
+Testability auditing tool designed to identify automation weaknesses **before they become flaky tests**.
 
----
+It analyzes:
 
-## Skills
+* locator robustness
+* fragile selectors
+* dynamic identifiers
+* element identity
+* testability issues
+* safer locator strategies
 
-| Skill | Level | Proof |
-|---|---|---|
-| Test Automation (Playwright) | Advanced | 2+ years, multiple projects |
-| Test Automation (Selenium) | Advanced | 3+ years, production scenarios |
-| Python | Advanced | pytest, data scripts, automation |
-| API Testing | Advanced | REST, contract testing, validation |
-| AI System Testing | Intermediate | RAG, voice, LLM evaluation (emerging) |
-| Test Framework Design | Advanced | 3+ production-oriented frameworks |
-| Regulatory / Finance Domain | Expert | 12 years Private Equity, compliance |
-| CI/CD Integration | Advanced | GitHub Actions, Jenkins, pipeline design |
+**Focus:** Playwright · Testability · Locator Scoring · JavaScript
 
 ---
 
-## What I'm looking for
+#### 💥 Kalisto Blast Radius 🔒 `Private`
 
-QA automation roles at scale, AI system testing (RAG, LLM evaluation, voice bots), and opportunities for technical mentoring or knowledge sharing in testing practices.
+Deterministic engine for estimating the **regression impact of a software change**.
+
+It uses business dependency graphs to reason from:
+
+**Change → Impacted components → Business risk → Regression scope**
+
+**Focus:** Impact Analysis · Risk-Based Testing · Dependency Graphs · Python
 
 ---
+
+#### 🏭 Kalisto Foundry 🔒 `Private`
+
+Synthetic financial test-data generator designed for QA and fintech scenarios.
+
+Includes:
+
+* multi-country IBAN generation
+* behavioral personas
+* financial datasets
+* AML-oriented transaction patterns
+* deterministic test-data generation
+
+**Focus:** Fintech · Synthetic Data · AML Scenarios · TypeScript
+
+---
+
+#### 🤖 KALISTO 🔒 `Private`
+
+QA copilot experiment for regulated environments.
+
+The system explicitly separates **deterministic rules from LLM reasoning** and introduces confidence-based controls before producing QA recommendations.
+
+**Focus:** AI-Assisted QA · Explainability · Deterministic Validation · Python
+
+---
+
+## 🤖 AI Testing Lab
+
+### ✈️ AI Travel Planner 🔒 `Private`
+
+AI-powered application used as a practical testing environment for **non-deterministic systems**.
+
+The QA strategy explores:
+
+* semantic evaluation
+* hallucination detection
+* prompt regression
+* repeated-run consistency
+* structured output validation
+* retry/backoff resilience
+* unit and integration testing
+
+**Stack:** Python · pytest · Promptfoo · DeepEval
+
+---
+
+### 🏦 Banking RAG Chatbot 🔒 `Private`
+
+Conversational banking assistant used to explore QA strategies for **RAG and voice-enabled financial systems**.
+
+Testing areas include:
+
+* RAG relevance
+* semantic correctness
+* hallucination detection
+* multi-turn conversations
+* speech-to-text accuracy
+* fallback behavior
+* PII masking
+
+**Focus:** RAG · LLM Evaluation · Voice Testing · Privacy
+
+---
+
+## 🎭 Playwright Engineering
+
+### 📖 Maîtriser JavaScript, TypeScript & Playwright
+
+I'm currently writing a practical book about **Playwright automation and maintainable test architecture**.
+
+📚 **Public excerpts:**
+
+[github.com/DauraRady/playwright-livre-extraits](https://github.com/DauraRady/playwright-livre-extraits)
+
+Topics include:
+
+* Playwright fixtures
+* `test` and `worker` scopes
+* test isolation
+* authentication strategies
+* Page Object Model
+* API testing
+* CI/CD
+* framework architecture
+* common automation anti-patterns
+
+**Planned release: September 2026**
+
+---
+
+### 🚢 Playwright OpenCruise
+
+[github.com/DauraRady/Playwright-Opencruise](https://github.com/DauraRady/Playwright-Opencruise)
+
+E2E automation project built with **Playwright and Python**, focused on reusable and maintainable test architecture.
+
+**Stack:** Playwright · Python · pytest
+
+---
+
+### 🧩 GitHub Issues E2E Sandbox
+
+[github.com/DauraRady/Github-Issues-Sandbox](https://github.com/DauraRady/Github-Issues-Sandbox)
+
+Sandbox project for experimenting with Playwright E2E automation against GitHub Issues.
+
+**Focus:** E2E · UI Testing · Playwright
+
+---
+
+## 🧪 Selected Automation Projects
+
+| Project                     | Focus                                          | Visibility |
+| --------------------------- | ---------------------------------------------- | ---------- |
+| **SIRH E2E Playwright**     | Enterprise workflows · Playwright · TypeScript | 🔒 Private |
+| **Playwright E2E API/UI**   | REST API + UI testing                          | 🔒 Private |
+| **Parabank Playwright E2E** | Banking E2E scenarios                          | 🔒 Private |
+| **Smart Home E2E**          | Dynamic Angular UI testing                     | 🔒 Private |
+| **Playwright BDD**          | BDD architecture with Playwright               | 🔒 Private |
+| **Playwright Framework**    | UI · API · Visual · CI/CD architecture         | 🔒 Private |
+| **Selenium pytest BDD**     | Python · Selenium · BDD                        | Public     |
+| **Selenium Java Tests**     | Selenium · Java                                | 🔒 Private |
+
+---
+
+## 🧠 How I approach testing
+
+I don't measure a good automation strategy by the **number of automated tests**.
+
+I start with **risk**.
+
+```text
+Business Risk
+     ↓
+Critical Journeys
+     ↓
+Best Testing Layer
+     ↓
+API / Integration / E2E
+     ↓
+Automation
+     ↓
+Fast & Actionable Feedback
+```
+
+That means:
+
+* prioritize critical business journeys over raw coverage
+* validate business logic API-first when possible
+* keep E2E focused on high-value workflows
+* build deterministic and isolated test data
+* treat flaky tests as engineering problems
+* prioritize defects by business impact
+* make failures diagnosable, not merely visible
+
+For AI systems, deterministic assertions are no longer enough.
+
+I also explore:
+
+**Relevance · Hallucination · Consistency · Grounding · Fallback Behavior**
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</p>
+
+**Automation**
+
+`Playwright` · `Selenium` · `pytest`
+
+**Languages**
+
+`TypeScript` · `Python` · `JavaScript` · `SQL`
+
+**API & Validation**
+
+`REST` · `Postman` · `Zod`
+
+**AI Testing**
+
+`DeepEval` · `Promptfoo` · `RAG Evaluation`
+
+**CI/CD**
+
+`GitHub Actions` · `Jenkins` · `Docker` · `Git`
+
+**Quality Engineering**
+
+`Risk-Based Testing` · `API Testing` · `E2E` · `Contract Testing` · `Testability` · `Failure Analysis`
+
+---
+
+## 🎓 Certifications
+
+| Certification                     |     Score |
+| --------------------------------- | --------: |
+| ISTQB Foundation Level            |   **90%** |
+| ISTQB Agile Tester                | **82.5%** |
+| ISTQB Certified Tester AI Testing | **82.7%** |
+| ISTQB Test Management             |   **80%** |
+
+---
+
+## 🏦 Finance × Quality Engineering
+
+Before specializing in QA automation, I worked extensively with **financial systems and business processes**, including Private Equity and regulated environments.
+
+That experience influences how I approach software quality today.
+
+I don't stop at:
+
+> *Does the feature work?*
+
+I also ask:
+
+> **What happens to the business if it fails?**
+
+Revenue, compliance, financial data and customer trust all influence my testing strategy.
+
+---
+
+## 🌱 Currently exploring
+
+`AI Testing` · `RAG Evaluation` · `Agentic Testing` · `Playwright Testability` · `Failure Triage` · `Synthetic Financial Data` · `Risk-Based Regression`
+
+---
+
+## 📫 Let's connect
+
+I'm interested in **QA Automation, Quality Engineering and AI Testing**, particularly where automation meets complex business systems.
+
+Public repositories showcase selected work. Additional projects are kept private but documented here to illustrate the engineering problems I'm exploring.
 
 <p align="center">
-  <a href="mailto:daura.rady@outlook.fr">daura.rady@outlook.fr</a> ·
-  <a href="https://www.linkedin.com/in/radydorra/">LinkedIn</a>
+  <a href="mailto:daura.rady@outlook.fr">Email</a> ·
+  <a href="https://www.linkedin.com/in/radydorra/">LinkedIn</a> ·
+  <a href="https://github.com/DauraRady">GitHub</a>
 </p>
