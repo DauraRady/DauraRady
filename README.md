@@ -145,9 +145,76 @@ Testing areas include:
 
 ## 🎭 Playwright Engineering
 
+Beyond the KALISTO ecosystem, I maintain several Playwright projects exploring **framework architecture, API/UI testing, fixtures, BDD and complex E2E workflows**.
+
+### 🏢 SIRH E2E Test Suite 🔒 `Private`
+
+End-to-end automation suite for an enterprise HR application built with **Playwright and TypeScript**.
+
+Covers:
+
+* authentication flows
+* complex business workflows
+* dynamic UI interactions
+* data persistence
+* negative scenarios
+* error handling
+* reusable test architecture
+
+**Stack:** Playwright · TypeScript · E2E Testing
+
+---
+
+### 🔌 Playwright API + UI Testing 🔒 `Private`
+
+End-to-end testing project combining **REST API and browser automation** in the same Playwright architecture.
+
+The project explores a pattern I particularly value:
+
+> **Use APIs for fast setup and business validation, then keep the UI focused on what actually needs a browser.**
+
+Covers:
+
+* REST API testing
+* API-driven test setup
+* UI validation
+* cross-layer scenarios
+* response validation
+* reusable test utilities
+
+**Stack:** Playwright · REST API · JavaScript
+
+---
+
+### 🧱 Playwright Framework 🔒 `Private`
+
+Reusable Playwright + TypeScript framework designed to explore how a test architecture evolves beyond a simple collection of E2E tests.
+
+Includes support for:
+
+* Web UI testing
+* API testing
+* mobile emulation
+* visual testing
+* Docker execution
+* GitHub Actions
+* reporting and CI/CD integration
+
+**Stack:** Playwright · TypeScript · Docker · GitHub Actions
+
+---
+
+### 🥒 Playwright BDD 🔒 `Private`
+
+Experimentation around **BDD architecture with the Playwright test runner**, focusing on keeping business scenarios readable without sacrificing maintainable automation.
+
+**Focus:** Playwright · TypeScript · BDD · Gherkin · Test Architecture
+
+---
+
 ### 📖 Maîtriser JavaScript, TypeScript & Playwright
 
-I'm currently writing a practical book about **Playwright automation and maintainable test architecture**.
+I'm currently writing a practical book focused on **modern Playwright automation and maintainable test architecture**.
 
 📚 **Public excerpts:**
 
@@ -155,37 +222,18 @@ I'm currently writing a practical book about **Playwright automation and maintai
 
 Topics include:
 
-* Playwright fixtures
+* fixtures and dependency injection
 * `test` and `worker` scopes
-* test isolation
 * authentication strategies
+* test isolation
 * Page Object Model
 * API testing
+* parallel execution
 * CI/CD
 * framework architecture
-* common automation anti-patterns
+* automation anti-patterns
 
-**Planned release: September 2026**
-
----
-
-### 🚢 Playwright OpenCruise
-
-[github.com/DauraRady/Playwright-Opencruise](https://github.com/DauraRady/Playwright-Opencruise)
-
-E2E automation project built with **Playwright and Python**, focused on reusable and maintainable test architecture.
-
-**Stack:** Playwright · Python · pytest
-
----
-
-### 🧩 GitHub Issues E2E Sandbox
-
-[github.com/DauraRady/Github-Issues-Sandbox](https://github.com/DauraRady/Github-Issues-Sandbox)
-
-Sandbox project for experimenting with Playwright E2E automation against GitHub Issues.
-
-**Focus:** E2E · UI Testing · Playwright
+**Planned release: End of 2026**
 
 ---
 
